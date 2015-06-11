@@ -60,7 +60,7 @@ vnc_geometry: 1024x768
 #   Variables used when building galaxyFS
 
 #-- galaxyFS playbook configs
-cm_install_tools: yes
+cm_install_tools: no
 shed_tool_list_file: files/shed_tool_list.yaml
 cm_install_data: no
 dbkeys_list_file: files/dbkeys_list.yaml.cloud
