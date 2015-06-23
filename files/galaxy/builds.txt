@@ -1040,3 +1040,4 @@ Arabidopsis_thaliana_TAIR10	Arabidopsis thaliana TAIR10 (Arabidopsis_thaliana_TA
 dp4	D. pseudoobscura (dp4) (dp4)
 Tcacao_1.0	Theobroma cacao Dec 2010 (CIRAD/Theobroma cacao Belizian Criollo) (Tcacao_1.0)
 apiMel3	Honeybee (Apis mellifera): apiMel3 (apiMel3)
+sTubPgscDM403	S. tuberosum Group Phureja (PGSC DM v4.03) (sTubPgscDM403)
