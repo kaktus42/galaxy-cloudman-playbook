@@ -69,7 +69,7 @@ cm_create_archive: yes
 galaxy_archive_path: /mnt/galaxyFS_archive
 galaxy_archive_name: galaxyFS-latest.tar.gz
 galaxy_timestamped_archive_name: galaxyFS-{{ lookup('pipe', 'date +%Y%m%d') }}.tar.gz
-galaxy_archive_bucket: cloudman/fs-archives
+galaxy_archive_bucket: galaxy-cip/fs-archives
 aws_access_key: "{{ lookup('env','AWS_ACCESS_KEY') }}"
 aws_secret_key: "{{ lookup('env','AWS_SECRET_KEY') }}"
 
